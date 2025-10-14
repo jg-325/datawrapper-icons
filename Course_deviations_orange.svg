@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Electron_Gold" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 20 20">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .st1 {
+        fill: #fa8c00;
+      }
+    </style>
+  </defs>
+  <circle class="st1" cx="10" cy="10" r="8.65"/>
+  <g>
+    <path class="st0" d="M6.59,15.23v-7.98.12c0-1.84,1.53-3.34,3.42-3.34s3.42,1.49,3.42,3.34v-.12,7.98"/>
+    <line class="st0" x1="8.57" y1="13.4" x2="6.6" y2="15.23"/>
+    <line class="st0" x1="4.62" y1="13.4" x2="6.59" y2="15.23"/>
+  </g>
+</svg>
